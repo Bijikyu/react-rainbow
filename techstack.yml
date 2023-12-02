@@ -1,0 +1,1258 @@
+repo_name: Bijikyu/react-rainbow
+report_id: 4837028a509beb840835a8a246de95dc
+repo_type: Public
+timestamp: '2023-12-02T21:32:37+00:00'
+requested_by: TahimiLeonBravo
+provider: github
+branch: master
+detected_tools_count: 90
+tools:
+- name: CSS 3
+  description: The latest evolution of the Cascading Style Sheets language
+  website_url: https://developer.mozilla.org/en-US/docs/Web/CSS/CSS3
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/6727/css.png
+  detection_source: Repo Metadata
+- name: JavaScript
+  description: Lightweight, interpreted, object-oriented language with first-class
+    functions
+  website_url: https://developer.mozilla.org/en-US/docs/Web/JavaScript
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Languages
+  image_url: https://img.stackshare.io/service/1209/javascript.jpeg
+  detection_source: Repo Metadata
+- name: ".NET"
+  description: A free, cross-platform, open source developer platform for building
+    many different types of applications
+  website_url: http://www.microsoft.com/net/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: Frameworks (Full Stack)
+  image_url: https://img.stackshare.io/service/1014/IoPy1dce_400x400.png
+  detection_source: package.json
+  last_updated_by: Reinier
+  last_updated_on: 2016-11-29 18:59:31.000000000 Z
+- name: Chart.js
+  description: Simple, clean and engaging charts for designers and developers
+  website_url: http://www.chartjs.org/
+  version: 2.8.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript Utilities & Libraries
+  image_url: https://img.stackshare.io/service/3866/_GD1-XrU_400x400.jpg
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: package.json
+  last_updated_by: Yuri Victor Munayev
+  last_updated_on: 2020-07-27 14:07:28.000000000 Z
+- name: React
+  description: A JavaScript library for building user interfaces
+  website_url: https://reactjs.org/
+  version: 16.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: Javascript UI Libraries
+  image_url: https://img.stackshare.io/service/1020/OYIaJ1KK.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: examples/create-react-app/package.json
+  last_updated_by: LeandroTorresSicilia
+  last_updated_on: 2019-09-17 21:59:27.000000000 Z
+- name: React Router
+  description: A complete routing solution for React.js
+  website_url: https://github.com/rackt/react-router
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/3350/8261421.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: examples/create-react-app/package.json
+  last_updated_by: LeandroTorresSicilia
+  last_updated_on: 2019-09-17 21:59:27.000000000 Z
+- name: Redux
+  description: Predictable state container for JavaScript apps
+  website_url: https://redux.js.org/
+  version: 4.0.4
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: State Management Library
+  image_url: https://img.stackshare.io/service/4074/13142323.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: examples/create-react-app/package.json
+  last_updated_by: LeandroTorresSicilia
+  last_updated_on: 2019-09-17 21:59:27.000000000 Z
+- name: Sass
+  description: Syntactically Awesome Style Sheets
+  website_url: http://sass-lang.com/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/1171/jCR2zNJV.png
+  detection_source: package.json
+  last_updated_by: Reinier
+  last_updated_on: 2016-11-29 18:59:31.000000000 Z
+- name: css-loader
+  description: Helps webpack to collect CSS from all the css files
+  website_url: https://github.com/webpack-contrib/css-loader
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Languages & Frameworks
+  sub_category: CSS Pre-processors / Extensions
+  image_url: https://img.stackshare.io/service/8074/default_d2b16fd6997fb2e164de645a34f9b8d5a880d999.png
+  detection_source: package.json
+  last_updated_by: Reinier Guerra
+  last_updated_on: 2019-09-24 04:24:28.000000000 Z
+- name: styled-components
+  description: Visual primitives for the component age. Use the best bits of ES6 and
+    CSS to style your apps without stress.
+  website_url: https://styled-components.com
+  version: 4.3.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: JavaScript Framework Components
+  image_url: https://img.stackshare.io/service/6749/styled-components.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: José Faro
+  last_updated_on: 2020-02-29 16:24:15.000000000 Z
+- name: Firebase
+  description: The Realtime App Platform
+  website_url: https://firebase.google.com/
+  open_source: false
+  hosted_saas: true
+  category: Application Hosting
+  sub_category: Realtime Backend / API
+  image_url: https://img.stackshare.io/service/116/cZLxNFZS.jpg
+  detection_source: package.json
+  last_updated_by: Tahimi
+  last_updated_on: 2019-05-10 03:36:25.000000000 Z
+- name: Babel
+  description: Use next generation JavaScript, today.
+  website_url: http://babeljs.io/
+  version: 6.26.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JavaScript Compilers
+  image_url: https://img.stackshare.io/service/2739/-1wfGjNw.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: ".babelrc"
+  last_updated_by: Reinier Guerra
+  last_updated_on: 2019-09-24 04:24:28.000000000 Z
+- name: CircleCI
+  description: Automate your development process quickly, safely, and at scale
+  website_url: https://circleci.com/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Continuous Integration
+  image_url: https://img.stackshare.io/service/190/CvqrSSFs_400x400.jpg
+  detection_source: ".circleci/config.yml"
+  last_updated_by: LeandroTorresSicilia
+  last_updated_on: 2019-09-11 22:37:51.000000000 Z
+- name: CodeMirror
+  description: A versatile text editor implemented in JavaScript for the browser
+  website_url: http://codemirror.net/
+  version: 5.49.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Text Editor
+  image_url: https://img.stackshare.io/service/2490/E_fCaAi6.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Carlos Miguel
+  last_updated_on: 2019-10-31 05:41:25.000000000 Z
+- name: Coveralls
+  description: Track your project's code coverage over time, changes to files, and
+    badge your GitHub repo
+  website_url: https://coveralls.io/
+  open_source: false
+  hosted_saas: true
+  category: Build, Test, Deploy
+  sub_category: Code Coverage
+  image_url: https://img.stackshare.io/service/680/a43e4a04cb9f778842de43f95db59a14.png
+  detection_source: package.json
+  last_updated_by: LeandroTorresSicilia
+  last_updated_on: 2019-12-31 17:10:45.000000000 Z
+- name: Dotenv
+  description: Loads environment variables from .env for Nodejs projects
+  website_url: https://github.com/motdotla/dotenv
+  license: BSD-2-Clause
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Server Configuration and Automation
+  image_url: https://img.stackshare.io/service/8067/default_90dcb1286af7685c68df319c764b80704df1155b.png
+  detection_source: package.json
+  last_updated_by: Tahimi
+  last_updated_on: 2019-05-10 03:36:25.000000000 Z
+- name: ESLint
+  description: The fully pluggable JavaScript code quality tool
+  website_url: http://eslint.org/
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/3337/Q4L7Jncy.jpg
+  detection_source: package.json
+  last_updated_by: Reinier
+  last_updated_on: 2016-11-29 18:59:31.000000000 Z
+- name: Enzyme
+  description: JavaScript Testing utilities for React, by Airbnb
+  website_url: https://enzymejs.github.io/enzyme/
+  version: 3.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/4488/default_87e6ca3fa146a959af95ccf3df1ec550eb434129.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: examples/create-react-app/package.json
+  last_updated_by: LeandroTorresSicilia
+  last_updated_on: 2019-09-17 21:59:27.000000000 Z
+- name: Git
+  description: Fast, scalable, distributed revision control system
+  website_url: http://git-scm.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Version Control System
+  image_url: https://img.stackshare.io/service/1046/git.png
+  detection_source: Repo Metadata
+- name: Jest
+  description: Painless JavaScript Unit Testing
+  website_url: http://facebook.github.io/jest/
+  version: 20.0.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Javascript Testing Framework
+  image_url: https://img.stackshare.io/service/830/jest.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: package.json
+  last_updated_by: Reinier
+  last_updated_on: 2016-11-29 18:59:31.000000000 Z
+- name: NuGet
+  description: The package manager for .NET
+  website_url: https://www.nuget.org/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Package Managers
+  image_url: https://img.stackshare.io/service/2637/6I3oEOP4_400x400.jpg
+  detection_source: package.json
+  last_updated_by: Reinier
+  last_updated_on: 2016-11-29 18:59:31.000000000 Z
+- name: Prettier
+  description: 'Prettier is an opinionated code formatter. '
+  website_url: https://prettier.io/
+  version: 1.17.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/7035/default_66f265943abed56bcdbfca1c866a4261b1fbb063.jpg
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: JoseCarloBastos
+  last_updated_on: 2020-02-26 03:32:53.000000000 Z
+- name: Selenium
+  description: Web Browser Automation
+  website_url: http://www.seleniumhq.org/
+  version: 5.7.8
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/1517/sbUizSli_400x400.jpg
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Tahimi
+  last_updated_on: 2019-05-10 03:36:25.000000000 Z
+- name: Stylelint
+  description: A mighty, modern CSS linter
+  website_url: http://stylelint.io/
+  version: 9.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Code Review
+  image_url: https://img.stackshare.io/service/5446/V9JsvPul_400x400.jpg
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Reinier Guerra
+  last_updated_on: 2020-09-22 16:22:31.000000000 Z
+- name: WebdriverIO
+  description: Webdriver/Selenium 2.0 JavaScript bindings for Node.js
+  website_url: http://webdriver.io/
+  version: 5.16.7
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Browser Testing
+  image_url: https://img.stackshare.io/service/4185/webdriver.io.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Jose Leandro Torres
+  last_updated_on: 2019-11-17 20:21:53.000000000 Z
+- name: Webpack
+  description: A bundler for javascript and friends
+  website_url: http://webpack.js.org
+  version: 3.8.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: JS Build Tools / JS Task Runners
+  image_url: https://img.stackshare.io/service/1682/IMG_4636.PNG
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: package.json
+  last_updated_by: Carlos Miguel
+  last_updated_on: 2019-10-31 05:41:25.000000000 Z
+- name: Yarn
+  description: A new package manager for JavaScript
+  website_url: https://yarnpkg.com/
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/5848/44mC-kJ3.jpg
+  detection_source: examples/create-react-app/yarn.lock
+  last_updated_by: LeandroTorresSicilia
+  last_updated_on: 2018-08-26 06:23:53.000000000 Z
+- name: jsdom
+  description: A JavaScript implementation of the WHATWG DOM and HTML standards, for
+    use with node.js
+  website_url: https://github.com/jsdom/jsdom
+  version: 9.12.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Headless Browsers
+  image_url: https://img.stackshare.io/service/7054/preview.jpeg
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: package.json
+  last_updated_by: Tahimi
+  last_updated_on: 2019-05-10 03:36:25.000000000 Z
+- name: npm
+  description: The package manager for JavaScript.
+  website_url: https://www.npmjs.com/
+  open_source: false
+  hosted_saas: false
+  category: Build, Test, Deploy
+  sub_category: Front End Package Manager
+  image_url: https://img.stackshare.io/service/1120/lejvzrnlpb308aftn31u.png
+  detection_source: package.json
+  last_updated_by: Reinier
+  last_updated_on: 2016-11-29 18:59:31.000000000 Z
+- name: Stripe
+  description: Payments for developers
+  website_url: https://stripe.com
+  open_source: false
+  hosted_saas: true
+  category: Payments
+  sub_category: Payment Services
+  image_url: https://img.stackshare.io/service/97/eW6tXeq3.png
+  detection_source: package.json
+  last_updated_by: yvmunayev
+  last_updated_on: 2020-04-01 20:39:11.000000000 Z
+- name: HTML
+  description: Hypertext Markup Language for creating web pages.
+  website_url: http://
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/2270/no-img-open-source.png
+  detection_source: examples/create-react-app/public/index.html
+  last_updated_by: LeandroTorresSicilia
+  last_updated_on: 2018-08-26 06:23:53.000000000 Z
+- name: husky
+  website_url: https://github.com/typicode/husky
+  open_source: false
+  hosted_saas: false
+  image_url: https://img.stackshare.io/service/9527/5502029.jpeg
+  detection_source: package.json
+  last_updated_by: Tahimi
+  last_updated_on: 2019-05-10 03:36:25.000000000 Z
+- name: jsdoc
+  description: An API documentation generator for JavaScript
+  website_url: http://usejsdoc.org/
+  open_source: false
+  hosted_saas: false
+  category: Application Utilities
+  sub_category: Documentation as a Service & Tools
+  image_url: https://img.stackshare.io/service/4047/js-doc.png
+  detection_source: package.json
+  last_updated_by: Tahimi
+  last_updated_on: 2019-05-10 03:36:25.000000000 Z
+- name: "@babel/cli"
+  description: Babel command line
+  package_url: https://www.npmjs.com/@babel/cli
+  version: 7.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15848/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Yuri Victor Munayev
+  last_updated_on: 2020-07-27 14:07:28.000000000 Z
+- name: "@babel/core"
+  description: Babel compiler core
+  package_url: https://www.npmjs.com/@babel/core
+  version: 7.6.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15810/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Yuri Victor Munayev
+  last_updated_on: 2020-07-27 14:07:28.000000000 Z
+- name: "@babel/plugin-transform-runtime"
+  description: Externalise references to helpers and builtins
+  package_url: https://www.npmjs.com/@babel/plugin-transform-runtime
+  version: 7.6.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15952/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Reinier Guerra
+  last_updated_on: 2020-09-22 16:22:31.000000000 Z
+- name: "@babel/plugin-transform-typescript"
+  description: Transform TypeScript into ES.next
+  package_url: https://www.npmjs.com/@babel/plugin-transform-typescript
+  version: 7.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17950/default_e0b07170ab7d7ea66954ff35fdeaae5255c4c0aa.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Reinier Guerra
+  last_updated_on: 2020-09-22 16:22:31.000000000 Z
+- name: "@babel/preset-env"
+  description: A Babel preset for each environment
+  package_url: https://www.npmjs.com/@babel/preset-env
+  version: 7.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15819/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Yuri Victor Munayev
+  last_updated_on: 2020-07-27 14:07:28.000000000 Z
+- name: "@babel/preset-react"
+  description: Babel preset for all React plugins
+  package_url: https://www.npmjs.com/@babel/preset-react
+  version: 7.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15890/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Yuri Victor Munayev
+  last_updated_on: 2020-10-04 05:14:15.000000000 Z
+- name: "@babel/preset-typescript"
+  description: Babel preset for TypeScript
+  package_url: https://www.npmjs.com/@babel/preset-typescript
+  version: 7.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16084/default_d4e765f8a43dcfd232c8b9ee9732058bc27c727a.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Tahimi
+  last_updated_on: 2020-09-20 17:19:42.000000000 Z
+- name: "@babel/register"
+  description: Babel require hook
+  package_url: https://www.npmjs.com/@babel/register
+  version: 7.6.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16014/default_7a465bc85b23fd837cbc038fd1d504632c41a884.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Yuri Victor Munayev
+  last_updated_on: 2020-07-27 14:07:28.000000000 Z
+- name: "@fortawesome/fontawesome-svg-core"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/fontawesome-svg-core
+  version: 1.2.22
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16644/default_50c9ed1615a25628505ab53def64d82450ced26b.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: examples/create-react-app/package.json
+  last_updated_by: LeandroTorresSicilia
+  last_updated_on: 2019-09-17 21:59:27.000000000 Z
+- name: "@fortawesome/free-brands-svg-icons"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/free-brands-svg-icons
+  version: 5.1.0
+  license: CC-BY-4.0,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18314/default_8c7316b1ad57adb78204233fc4608152c3b49ac6.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Andy Montalvo
+  last_updated_on: 2020-09-14 01:44:55.000000000 Z
+- name: "@fortawesome/free-regular-svg-icons"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/free-regular-svg-icons
+  version: 5.10.2
+  license: CC-BY-4.0,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18157/default_63cbe387694d6d77dde61448de98c6bd2a9b18de.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: examples/create-react-app/package.json
+  last_updated_by: LeandroTorresSicilia
+  last_updated_on: 2019-09-17 21:59:27.000000000 Z
+- name: "@fortawesome/free-solid-svg-icons"
+  description: The iconic font, CSS, and SVG framework
+  package_url: https://www.npmjs.com/@fortawesome/free-solid-svg-icons
+  version: 5.10.2
+  license: CC-BY-4.0,MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16683/default_6dad4e42e12d47cc6edfbdea036dae12f91abebb.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: examples/create-react-app/package.json
+  last_updated_by: LeandroTorresSicilia
+  last_updated_on: 2019-09-17 21:59:27.000000000 Z
+- name: "@fortawesome/react-fontawesome"
+  description: Official React component for Font Awesome 5
+  package_url: https://www.npmjs.com/@fortawesome/react-fontawesome
+  version: 0.1.4
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16936/default_277303773c2bdb575ee8f4bfe869f0a33d6755b2.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: examples/create-react-app/package.json
+  last_updated_by: LeandroTorresSicilia
+  last_updated_on: 2019-09-17 21:59:27.000000000 Z
+- name: "@testing-library/react-hooks"
+  description: Simple and complete React hooks testing utilities that encourage good
+    testing practices
+  package_url: https://www.npmjs.com/@testing-library/react-hooks
+  version: 3.2.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17877/default_d41d3b5a213e129d6ea411e77eecb13f54b6aea5.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Yuri Victor Munayev
+  last_updated_on: 2020-10-04 05:14:15.000000000 Z
+- name: assert
+  description: The assert module from Node.js, for the browser
+  package_url: https://www.npmjs.com/assert
+  version: 1.5.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16188/default_9a7a7dcd69c12c746dc4000dc4d1b75758079c9f.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: package.json
+  last_updated_by: Tahimi
+  last_updated_on: 2019-05-10 03:36:25.000000000 Z
+- name: autosize
+  description: Autosize is a small
+  package_url: https://www.npmjs.com/autosize
+  version: 4.0.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18320/default_185a3d4e97cf62330a9efe7678914006c4eeb555.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: package.json
+  last_updated_by: Tahimi
+  last_updated_on: 2019-05-10 03:36:25.000000000 Z
+- name: babel-eslint
+  description: Custom parser for ESLint
+  package_url: https://www.npmjs.com/babel-eslint
+  version: 7.2.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15803/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: package.json
+  last_updated_by: Reinier Guerra
+  last_updated_on: 2020-09-22 16:22:31.000000000 Z
+- name: babel-jest
+  description: Jest plugin to use babel for transformation
+  package_url: https://www.npmjs.com/babel-jest
+  version: 20.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15839/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: package.json
+  last_updated_by: Yuri Victor Munayev
+  last_updated_on: 2020-07-27 14:07:28.000000000 Z
+- name: babel-loader
+  description: Babel module loader for webpack
+  package_url: https://www.npmjs.com/babel-loader
+  version: 7.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15800/default_4acafe585186b4157fa23322ae7ca89e24b5cdef.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: package.json
+  last_updated_by: Yuri Victor Munayev
+  last_updated_on: 2020-07-27 14:07:28.000000000 Z
+- name: classnames
+  description: A simple utility for conditionally joining classNames together
+  package_url: https://www.npmjs.com/classnames
+  version: 2.2.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15942/default_4040fefea2f98006727f63d042275b96a275ab2d.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: package.json
+  last_updated_by: Jose Leandro Torres
+  last_updated_on: 2019-11-19 01:27:37.000000000 Z
+- name: copy-webpack-plugin
+  description: Copy files &amp;&amp; directories with webpack
+  package_url: https://www.npmjs.com/copy-webpack-plugin
+  version: 4.5.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15941/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Reinier Guerra
+  last_updated_on: 2020-09-22 16:22:31.000000000 Z
+- name: enzyme-adapter-react-16
+  description: JavaScript Testing utilities for React
+  package_url: https://www.npmjs.com/enzyme-adapter-react-16
+  version: 1.14.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15959/default_f8be85789693a9901dbcfa43c135c60525ae49a1.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: examples/create-react-app/package.json
+  last_updated_by: LeandroTorresSicilia
+  last_updated_on: 2019-09-17 21:59:27.000000000 Z
+- name: eslint-config-airbnb
+  description: Airbnb's ESLint config, following our styleguide
+  package_url: https://www.npmjs.com/eslint-config-airbnb
+  version: 15.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15857/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Reinier Guerra
+  last_updated_on: 2020-09-22 16:22:31.000000000 Z
+- name: eslint-config-prettier
+  description: Turns off all rules that are unnecessary or might conflict with Prettier
+  package_url: https://www.npmjs.com/eslint-config-prettier
+  version: 6.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15879/default_0b10af8ca19c215f781dc07442e75bdc831089d0.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Reinier Guerra
+  last_updated_on: 2020-09-22 16:22:31.000000000 Z
+- name: eslint-plugin-babel
+  description: An eslint rule plugin companion to babel-eslint
+  package_url: https://www.npmjs.com/eslint-plugin-babel
+  version: 4.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15988/default_cbd6c289400672b291755183817e9dd6abe1a612.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Reinier Guerra
+  last_updated_on: 2020-09-22 16:22:31.000000000 Z
+- name: eslint-plugin-import
+  description: Import with sanity
+  package_url: https://www.npmjs.com/eslint-plugin-import
+  version: 2.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15806/default_98aa227f51aa9d787815ec3fd98d0ab2bfebbb91.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: package.json
+  last_updated_by: Reinier Guerra
+  last_updated_on: 2020-09-22 16:22:31.000000000 Z
+- name: eslint-plugin-jest
+  description: Eslint rules for Jest
+  package_url: https://www.npmjs.com/eslint-plugin-jest
+  version: 20.0.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15996/default_7a88bebb451873cc63bd99007de5bd3bb8ef85de.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Reinier Guerra
+  last_updated_on: 2020-09-22 16:22:31.000000000 Z
+- name: eslint-plugin-jsx-a11y
+  description: Static AST checker for accessibility rules on JSX elements
+  package_url: https://www.npmjs.com/eslint-plugin-jsx-a11y
+  version: 5.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15845/default_6743ba96cf149a3c3c68a185199f9705d6eff80e.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: package.json
+  last_updated_by: Reinier Guerra
+  last_updated_on: 2020-09-22 16:22:31.000000000 Z
+- name: eslint-plugin-prettier
+  description: Runs prettier as an eslint rule
+  package_url: https://www.npmjs.com/eslint-plugin-prettier
+  version: 3.1.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15896/default_6e6e1d6bb189c8bb26c6410618bd597979578f39.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Reinier Guerra
+  last_updated_on: 2020-09-22 16:22:31.000000000 Z
+- name: eslint-plugin-react
+  description: React specific linting rules for ESLint
+  package_url: https://www.npmjs.com/eslint-plugin-react
+  version: 7.4.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15817/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: package.json
+  last_updated_by: Yuri Victor Munayev
+  last_updated_on: 2020-10-04 05:14:15.000000000 Z
+- name: eslint-plugin-react-hooks
+  description: ESLint rules for React Hooks
+  package_url: https://www.npmjs.com/eslint-plugin-react-hooks
+  version: 1.6.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16149/default_1f3a2fc7d882e29a43394ecdf491b8989ea3f0fa.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Yuri Victor Munayev
+  last_updated_on: 2020-10-04 05:14:15.000000000 Z
+- name: file-loader
+  description: A file loader module for webpack
+  package_url: https://www.npmjs.com/file-loader
+  version: 1.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15834/default_4479dbac220be99e50e724b2df6cf415241d71fd.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: package.json
+  last_updated_by: LeandroTorresSicilia
+  last_updated_on: 2019-12-31 17:10:45.000000000 Z
+- name: glob
+  description: A little globber
+  package_url: https://www.npmjs.com/glob
+  version: 7.1.4
+  license: ISC
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15875/default_7c39a83d4acd952df89b1ebfdb94c8646324fbf1.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: package.json
+  last_updated_by: Tahimi
+  last_updated_on: 2019-05-10 03:36:25.000000000 Z
+- name: jest-junit
+  description: A jest reporter that generates junit xml files
+  package_url: https://www.npmjs.com/jest-junit
+  version: 10.0.0
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16536/default_d522554c6a41cb28d922d6d3ad32ad4afa0e3bb5.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: José Faro
+  last_updated_on: 2020-02-29 16:24:15.000000000 Z
+- name: node-sass
+  description: Wrapper around libsass
+  package_url: https://www.npmjs.com/node-sass
+  version: 4.13.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15827/default_db4a7791d2f1174547374b9b587bc10fec088a5a.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: LeandroTorresSicilia
+  last_updated_on: 2019-12-31 17:10:45.000000000 Z
+  vulnerabilities:
+  - name: Improper Certificate Validation in node-sass
+    cve_id: CVE-2020-24025
+    cve_url: https://github.com/advisories/GHSA-r8f7-9pfq-mjmv
+    detected_date: Feb 10
+    severity: moderate
+    first_patched: 7.0.0
+- name: npm-run-all
+  description: A CLI tool to run multiple npm-scripts in parallel or sequential
+  package_url: https://www.npmjs.com/npm-run-all
+  version: 4.1.3
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15926/default_b45165a5d30e541ab11711a34a78209b3e8ed7fd.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: LeandroTorresSicilia
+  last_updated_on: 2019-12-31 17:10:45.000000000 Z
+- name: pre-push
+  description: Automatically install pre-push hooks for your npm modules
+  package_url: https://www.npmjs.com/pre-push
+  version: 0.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18373/default_6da9f8de2035c7ad69ecf412df9fe80b73f9797a.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Tahimi
+  last_updated_on: 2019-05-10 03:36:25.000000000 Z
+- name: pretty-quick
+  description: Get Pretty Quick
+  package_url: https://www.npmjs.com/pretty-quick
+  version: 1.10.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16281/default_f130429ee56156823c8c6e94da6fb7aa07f07ba5.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: JoseCarloBastos
+  last_updated_on: 2020-02-26 03:32:53.000000000 Z
+- name: prop-types
+  description: Runtime type checking for React props and similar objects
+  package_url: https://www.npmjs.com/prop-types
+  version: 15.7.2
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15843/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: examples/create-react-app/package.json
+  last_updated_by: LeandroTorresSicilia
+  last_updated_on: 2019-09-17 21:59:27.000000000 Z
+- name: react-dom
+  description: React package for working with the DOM
+  package_url: https://www.npmjs.com/react-dom
+  version: 16.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15808/default_14fd11531839d935f920b6d55bd6f3528c890ad7.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: examples/create-react-app/package.json
+  last_updated_by: LeandroTorresSicilia
+  last_updated_on: 2019-09-17 21:59:27.000000000 Z
+- name: react-ga
+  description: React Google Analytics Module
+  package_url: https://www.npmjs.com/react-ga
+  version: 2.5.3
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/18260/default_e883f2ab27e3b57d1e2e1d1474b09e7351e11b54.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Yuri Victor Munayev
+  last_updated_on: 2020-10-04 05:14:15.000000000 Z
+- name: react-is
+  description: Brand checking of React Elements
+  package_url: https://www.npmjs.com/react-is
+  version: 16.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17829/default_2a0f136cfb588dd9053268b73a18a953e8d65590.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: package.json
+  last_updated_by: Yuri Victor Munayev
+  last_updated_on: 2020-10-04 05:14:15.000000000 Z
+- name: react-redux
+  description: Official React bindings for Redux
+  package_url: https://www.npmjs.com/react-redux
+  version: 7.1.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15984/default_f49d4c116f8ea0155f4d92673b084378bba02760.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: examples/create-react-app/package.json
+  last_updated_by: LeandroTorresSicilia
+  last_updated_on: 2019-09-17 21:59:27.000000000 Z
+- name: react-router-dom
+  description: DOM bindings for React Router
+  package_url: https://www.npmjs.com/react-router-dom
+  version: 5.0.1
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16025/default_e25d1fbb04a118c79fb444294461417342bd03bf.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: examples/create-react-app/package.json
+  last_updated_by: LeandroTorresSicilia
+  last_updated_on: 2019-09-17 21:59:27.000000000 Z
+- name: react-scripts
+  description: Configuration and scripts for Create React App
+  package_url: https://www.npmjs.com/react-scripts
+  version: 1.1.5
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15985/default_8b5680d4e916298d08363c291a0d6e34c07ceb15.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: examples/create-react-app/package.json
+  last_updated_by: LeandroTorresSicilia
+  last_updated_on: 2019-09-17 21:59:27.000000000 Z
+- name: react-styleguidist
+  description: React components style guide generator
+  package_url: https://www.npmjs.com/react-styleguidist
+  version: 9.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16707/default_9b37c4b9479b5cf61478ac117da829ccdd0ed0a0.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Yuri Victor Munayev
+  last_updated_on: 2020-10-04 05:14:15.000000000 Z
+- name: react-test-renderer
+  description: React package for snapshot testing
+  package_url: https://www.npmjs.com/react-test-renderer
+  version: 16.9.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15929/default_ac622bc364a601d766b9a6f6039f191492f54d65.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: examples/create-react-app/package.json
+  last_updated_by: LeandroTorresSicilia
+  last_updated_on: 2019-09-17 21:59:27.000000000 Z
+- name: redux-form
+  description: A higher order component decorator for forms using Redux and React
+  package_url: https://www.npmjs.com/redux-form
+  version: 8.2.6
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16870/default_884deeafc4d4b680b6d9cb7e3759ba2db025e8e7.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: examples/create-react-app/package.json
+  last_updated_by: LeandroTorresSicilia
+  last_updated_on: 2019-09-17 21:59:27.000000000 Z
+- name: remark-parse
+  description: Remark plugin to parse Markdown
+  package_url: https://www.npmjs.com/remark-parse
+  version: 5.0.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17485/default_2ae5beb193365eca46e337162957275ebc9c6b3b.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Yuri Victor Munayev
+  last_updated_on: 2020-07-28 03:55:16.000000000 Z
+- name: sass-loader
+  description: Sass loader for webpack
+  package_url: https://www.npmjs.com/sass-loader
+  version: 7.1.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15842/default_b71c906aeda030a5e2f1fe40bf12a93be52404ab.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Reinier Guerra
+  last_updated_on: 2019-09-24 04:24:28.000000000 Z
+- name: shelljs
+  description: Portable Unix shell commands for Node.js
+  package_url: https://www.npmjs.com/shelljs
+  version: 0.3.0
+  license: BSD-3-Clause
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15897/default_1d65e37e65b7f80761374f0202776043277d505d.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Reinier Guerra
+  last_updated_on: 2019-05-10 23:49:22.000000000 Z
+  vulnerabilities:
+  - name: Improper Privilege Management in shelljs
+    cve_id: CVE-2022-0144
+    cve_url: https://github.com/advisories/GHSA-4rq4-32rv-6wp6
+    detected_date: Jan 22
+    severity: high
+    first_patched: 0.8.5
+  - name: Improper Privilege Management in shelljs
+    cve_id: 
+    cve_url: https://github.com/advisories/GHSA-64g7-mvw6-v9qj
+    detected_date: Jan 15
+    severity: moderate
+    first_patched: 0.8.5
+- name: style-loader
+  description: Style loader module for webpack
+  package_url: https://www.npmjs.com/style-loader
+  version: 0.19.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/15822/default_004658cda9b38934f2871435e9dc15608c86e8be.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: package.json
+  last_updated_by: LeandroTorresSicilia
+  last_updated_on: 2019-12-31 17:10:45.000000000 Z
+- name: stylelint-config-standard
+  description: Standard shareable config for stylelint
+  package_url: https://www.npmjs.com/stylelint-config-standard
+  version: 18.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16266/default_9924e5da1d50ea01e52b48e4fae4b1347af5e4ff.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Reinier Guerra
+  last_updated_on: 2020-09-22 16:22:31.000000000 Z
+- name: stylelint-processor-styled-components
+  description: A stylelint processor for styled-components
+  package_url: https://www.npmjs.com/stylelint-processor-styled-components
+  version: 1.8.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17708/default_9693d58c90f5c726ee648423687212d2a94266da.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Reinier Guerra
+  last_updated_on: 2020-09-22 16:22:31.000000000 Z
+- name: stylelint-scss
+  description: A collection of SCSS specific rules for stylelint
+  package_url: https://www.npmjs.com/stylelint-scss
+  version: 3.3.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16626/default_9012166d3e51cea5db6b4e69c80ace1c50b7509d.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Reinier Guerra
+  last_updated_on: 2020-09-22 16:22:31.000000000 Z
+- name: unified
+  description: Interface for processing text using syntax trees
+  package_url: https://www.npmjs.com/unified
+  version: 6.2.0
+  license: MIT
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/17259/default_03da3f7f53e439ab3b23ec47828b2f3229885efd.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/yarn.lock
+  detection_source: package.json
+  last_updated_by: Wilder González Díaz
+  last_updated_on: 2020-07-06 21:56:08.000000000 Z
+- name: xlsx
+  description: SheetJS Spreadsheet data parser and writer
+  package_url: https://www.npmjs.com/xlsx
+  version: 0.14.5
+  license: Apache-2.0
+  open_source: true
+  hosted_saas: false
+  category: Libraries
+  sub_category: npm Packages
+  image_url: https://img.stackshare.io/package/16781/default_c6eddffbed005d007ab4638fbcac90e4b79576b2.png
+  detection_source_url: github.com/Bijikyu/react-rainbow/blob/master/examples/create-react-app/yarn.lock
+  detection_source: package.json
+  last_updated_by: LeandroTorresSicilia
+  last_updated_on: 2019-08-04 23:03:22.000000000 Z
+  vulnerabilities:
+  - name: Prototype Pollution in sheetJS
+    cve_id: CVE-2023-30533
+    cve_url: https://github.com/advisories/GHSA-4r6h-8v6p-xvw6
+    detected_date: Apr 25
+    severity: high
+    first_patched: 0.19.3
+  - name: Denial of Service in SheetsJS Pro
+    cve_id: CVE-2021-32013
+    cve_url: https://github.com/advisories/GHSA-8vcr-vxm8-293m
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 0.17.0
+  - name: Denial of Service in SheetJS Pro
+    cve_id: CVE-2021-32012
+    cve_url: https://github.com/advisories/GHSA-3x9f-74h4-2fqr
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 0.17.0
+  - name: Denial of Service in SheetJS Pro
+    cve_id: CVE-2021-32014
+    cve_url: https://github.com/advisories/GHSA-g973-978j-2c3p
+    detected_date: Aug 22
+    severity: moderate
+    first_patched: 0.17.0
